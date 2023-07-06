@@ -1,0 +1,8 @@
+[
+  {
+    "id": "url",
+    "type": "input",
+    "label": "__label__",
+    "placeholder": "__placeholder__"
+  }
+]
