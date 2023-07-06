@@ -4,6 +4,7 @@
   "priority": 0,
   "runAt": "bootstrap",
   "license": "MIT",
+  "author": "Ranhe <wenguang.fe@gmail.com> (https://circlereader.com/)",
   "runDependencies": [
     "react",
     "antd"
