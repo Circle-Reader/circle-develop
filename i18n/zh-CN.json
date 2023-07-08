@@ -1,0 +1,10 @@
+{
+  "title": "开发工具",
+  "description": "开发应用的第一步，请配合命令行管理工具 circle-wf 一起使用",
+  "label": "标识符",
+  "placeholder": "启动应用后显示的标识符",
+  "label_error": "标识符不合法",
+  "format_error": "插件格式错误",
+  "install_error": "安装失败",
+  "socket_error": "连接错误，请确保开发工具正在运行并刷新重试"
+}

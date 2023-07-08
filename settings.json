@@ -1,0 +1,16 @@
+{
+  "option": [
+    {
+      "id": "develop",
+      "label": "__title__",
+      "data": [
+        {
+          "id": "identifier",
+          "type": "input",
+          "label": "__label__",
+          "placeholder": "__placeholder__"
+        }
+      ]
+    }
+  ]
+}

@@ -1,10 +1,10 @@
 {
-  "title": "应用开发工具",
-  "label": "应用地址",
-  "description": "开始开发应用工具的第一步",
-  "placeholder": "应用文件的访问地址",
-  "url_error": "开发地址不合法",
-  "format_error": "插件格式错误",
-  "install_error": "安装失败",
-  "socket_error": "连接错误，请确保开发工具正在运行并刷新重试"
+  "title": "development tool",
+  "description": "The first step in developing an application",
+  "label": "Identifier",
+  "placeholder": "The identifier displayed after starting the application",
+  "label_error": "Illegal identifier",
+  "format_error": "Plugin format error",
+  "install_error": "Installation failed",
+  "socket_error": "Connection error, please make sure the development tool is running and refresh to try again"
 }

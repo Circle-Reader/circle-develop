@@ -1,10 +1,10 @@
 {
-  "title": "应用开发工具",
-  "label": "应用地址",
-  "description": "开始开发应用工具的第一步",
-  "placeholder": "应用文件的访问地址",
-  "url_error": "开发地址不合法",
-  "format_error": "插件格式错误",
-  "install_error": "安装失败",
-  "socket_error": "连接错误，请确保开发工具正在运行并刷新重试"
+  "title": "開発ツール",
+  "description": "アプリケーション開発の第一歩",
+  "label": "識別子",
+  "placeholder": "アプリケーションを起動した後に表示される識別子",
+  "label_error": "識別子が不正です",
+  "format_error": "プラグインフォーマットエラー",
+  "install_error": "インストールに失敗しました",
+  "socket_error": "接続エラー、開発ツールが実行中であることを確認して再試行を更新してください"
 }

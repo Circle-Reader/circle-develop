@@ -1,10 +1,10 @@
 {
-  "title": "应用开发工具",
-  "label": "应用地址",
-  "description": "开始开发应用工具的第一步",
-  "placeholder": "应用文件的访问地址",
-  "url_error": "开发地址不合法",
-  "format_error": "插件格式错误",
-  "install_error": "安装失败",
-  "socket_error": "连接错误，请确保开发工具正在运行并刷新重试"
+  "title": "개발 도구",
+  "description": "애플리케이션 개발을 위한 첫 번째 단계",
+  "label": "식별자",
+  "placeholder": "적용 시작 후 표시된 식별자",
+  "label_error": "식별자 비합법",
+  "format_error": "플러그인 형식 오류",
+  "install_error": "설치 실패",
+  "socket_error": "연결 오류, 개발 도구가 실행 중인지 확인하고 새로 고침 다시 시도하십시오."
 }

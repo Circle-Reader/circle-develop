@@ -1,0 +1,10 @@
+{
+  "title": "開發工具",
+  "description": "開發應用的第一步",
+  "label": "識別字",
+  "placeholder": "啟動應用後顯示的識別字",
+  "label_error": "識別字不合法",
+  "format_error": "挿件格式錯誤",
+  "install_error": "安裝失敗",
+  "socket_error": "連接錯誤，請確保開發工具正在運行並重繪重試"
+}

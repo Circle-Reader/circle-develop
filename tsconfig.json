@@ -1,8 +1,9 @@
 {
   "compilerOptions": {
-    "rootDir": "src",
     "outDir": "dist",
-    "target": "ES2017",
+    "target": "ES5",
+    "module": "ESNext",
+    "lib": ["ESNext", "DOM"],
     "sourceMap": false,
     "jsx": "react-jsx",
     "moduleResolution": "node",
